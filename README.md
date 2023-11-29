@@ -22,9 +22,9 @@ Feel free to explore the contents and use them as a learning resource.
 
 ## Contents
 
-- [Course Notes](/course-notes)
-- [Additional Resources](/additional-resources)
-- [Tools and Scripts](/tools-and-scripts)
+- [Course Notes]
+- [Additional Resources]
+- [Tools and Scripts]
 
 ## Usage
 
